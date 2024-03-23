@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Rastogi</h1>
 <h3 align="center">A passionate Frontend, Backend and Android developer from India</h3>
 
+<img align="right" alt="coding" width="400" scr="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrastogi04&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrastogi04" /> </p>
 
 - 🔭 I’m currently working on an Android App **DM - Dainik Management**

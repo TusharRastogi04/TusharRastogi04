@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently persuing **Bachelor Of Technology In Computer Science And Engineering** 
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MzkyNTAsIm5iZiI6MTcwMjgzODk1MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDE4NDkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MGI3MWZhMTE0MDIxZWNiOWFjNGY2M2QwZWZkYmVhYzYzZjcwNGViN2U5YTA4MjA2N2U1MTBmZTA5ZGUwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xQ4_hkihhXSTGEk38g7DUHPG5zDOBDLpY6fFqnkjDHg"/>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MangoDB, ExpressJS, ReactJS, NodeJS, React-Native, Firebase, Python, Java**
@@ -16,9 +14,11 @@
 
 - ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
 
+<img align="right" alt="coding" width="500" scr="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_shubham1902" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tushar-rastogi-b7b38a25b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ%2Fo4fR4%2BSfGjMUEHYMCOuA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham jangra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tusharrastogi04?igsh=MTY2aWF3OGt4Y3NkNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_shubhamjangra_" height="30" width="40" /></a>
 <a href="http://www.youtube.com/@tusharrastogi3433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codethics" height="30" width="40" /></a>

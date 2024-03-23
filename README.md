@@ -1,10 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tushar Rastogi</h1>
-<h3 align="center">A passionate Frontend, Backend and Android developer from India</h3>
+<h3 align="center">A Passionate Frontend, Backend and Android Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrastogi04&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrastogi04" /> </p>
 
-- 🔭 I’m currently working on an Android App **DM - Dainik Management**
+- 🔭 I’m currently persuing **Bachelor Of Technology In Computer Science And Engineering** 
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MzkyNTAsIm5iZiI6MTcwMjgzODk1MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDE4NDkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MGI3MWZhMTE0MDIxZWNiOWFjNGY2M2QwZWZkYmVhYzYzZjcwNGViN2U5YTA4MjA2N2U1MTBmZTA5ZGUwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xQ4_hkihhXSTGEk38g7DUHPG5zDOBDLpY6fFqnkjDHg"/>
 

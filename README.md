@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
 
-<img align="right" alt="coding" width="500" scr="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>

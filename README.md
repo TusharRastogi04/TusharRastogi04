@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm all about diving into a project right off the bat, skipping the reading or video learning phase because it gives me a real kick!**
 
-<img align="right" alt="coding" width="500" scr="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="coding" width="500" scr="https://images.app.goo.gl/tEtihrR6yPZhLEgG6">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
